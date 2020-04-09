@@ -6,8 +6,8 @@ Coded by Eyal Rufeisen.
 
 
 Content belongs to entire group:
-Jaïr Dalhuisen
-Eyal Rufeisen
-Quinten Henstra
-Marx Timmer
-Ze Yao
+* Jaïr Dalhuisen
+* Eyal Rufeisen
+* Quinten Henstra
+* Marx Timmer
+* Ze Yao
